@@ -1,6 +1,6 @@
 {
   "dealership": "Marine Chrysler Dodge Jeep Ltd",
-  "generated_at": "2026-10-26T03:30:25",
+  "generated_at": "2026-10-26T09:58:38",
   "vehicle_count": 298,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -2397,7 +2397,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 63885.0,
+      "price": 61895.0,
       "price_currency": "CAD"
     },
     {
@@ -2441,7 +2441,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 63785.0,
+      "price": 61895.0,
       "price_currency": "CAD"
     },
     {
@@ -2452,7 +2452,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 63785.0,
+      "price": 61895.0,
       "price_currency": "CAD"
     },
     {
@@ -2474,7 +2474,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 63785.0,
+      "price": 61895.0,
       "price_currency": "CAD"
     },
     {
@@ -2485,7 +2485,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 63885.0,
+      "price": 61895.0,
       "price_currency": "CAD"
     },
     {
