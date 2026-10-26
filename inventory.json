@@ -1,6 +1,6 @@
 {
   "dealership": "Marine Chrysler Dodge Jeep Ltd",
-  "generated_at": "2026-10-25T18:30:16",
+  "generated_at": "2026-10-26T01:29:48",
   "vehicle_count": 298,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -2254,7 +2254,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 60988.0,
+      "price": 58341.0,
       "price_currency": "CAD"
     },
     {
@@ -2298,18 +2298,18 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 63988.0,
+      "price": 62895.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 1500 Black Express",
+      "name": "2026 RAM 1500 Black Express 3.92 ratio w/trailer brake control",
       "vin": "1C6SRFGPXTN372495",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/7673afbcf168.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 64380.0,
+      "price": 62425.0,
       "price_currency": "CAD"
     },
     {
@@ -2346,14 +2346,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 1500 Black Express",
+      "name": "2026 RAM 1500 Black Express 3.92 ratio w/trailer brake control",
       "vin": "3C6SRFGP7T4199934",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/d9160b1edc1e.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 64875.0,
+      "price": 62861.0,
       "price_currency": "CAD"
     },
     {
