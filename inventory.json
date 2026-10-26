@@ -1,6 +1,6 @@
 {
   "dealership": "Marine Chrysler Dodge Jeep Ltd",
-  "generated_at": "2026-10-26T01:29:48",
+  "generated_at": "2026-10-26T03:30:25",
   "vehicle_count": 298,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -159,7 +159,7 @@
       "make": "Hyundai",
       "model": "Palisade",
       "condition": "used",
-      "price": 28999.0,
+      "price": 27999.0,
       "price_currency": "CAD"
     },
     {
@@ -626,7 +626,7 @@
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 59999.0,
+      "price": 56999.0,
       "price_currency": "CAD"
     },
     {
@@ -1044,7 +1044,7 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 92564.0,
+      "price": 91999.0,
       "price_currency": "CAD"
     },
     {
