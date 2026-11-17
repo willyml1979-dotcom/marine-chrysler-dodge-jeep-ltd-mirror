@@ -1,6 +1,6 @@
 # Marine Chrysler Dodge Jeep Ltd.
 
- dealership in Vancouver. AI-readable inventory mirror, about 300 vehicles.
+ dealership in Vancouver. AI-readable inventory mirror, about 298 vehicles.
 
 - Official website: https://www.marinechrysler.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/

@@ -1,7 +1,7 @@
 {
   "dealership": "Marine Chrysler Dodge Jeep Ltd",
-  "generated_at": "2026-11-16T20:06:58",
-  "vehicle_count": 300,
+  "generated_at": "2026-11-17T13:15:57",
+  "vehicle_count": 298,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1110,17 +1110,6 @@
     },
     {
       "name": "2026 Jeep Cherokee Laredo",
-      "vin": "3C4PJMB25TT216032",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/a2539963b1b4.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 42988.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Cherokee Laredo",
       "vin": "3C4PJMB24TT217043",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/6501994ab143.html",
       "year": 2026,
@@ -1216,17 +1205,6 @@
       "model": "Cherokee",
       "condition": "new",
       "price": 43798.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Cherokee 85th Anniversary Edition",
-      "vin": "3C4PJMB2XTT262584",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/94eb81d13caf.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 56127.0,
       "price_currency": "CAD"
     },
     {
@@ -1395,17 +1373,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee 85th Anniversary Edition",
-      "vin": "3C4PJMB28TT262583",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/aa931e419323.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 54781.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Jeep Cherokee Overland",
       "vin": "3C4PJMC20TT276492",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/860fbd63c165.html",
@@ -1561,17 +1528,6 @@
     },
     {
       "name": "2026 Jeep Cherokee Laredo",
-      "vin": "3C4PJMB23TT243665",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/3b3ccde4ae4a.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 43798.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Cherokee Laredo",
       "vin": "3C4PJMB29TT288156",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/017594c9d40d.html",
       "year": 2026,
@@ -1638,17 +1594,6 @@
     },
     {
       "name": "2026 Jeep Cherokee Limited",
-      "vin": "3C4PJMB29TT276511",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/f2c7ac1cec8d.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 51106.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Cherokee Limited",
       "vin": "3C4PJMB22TT276513",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/d81400f9b934.html",
       "year": 2026,
@@ -1703,17 +1648,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Trailhawk",
-      "vin": "3C4NJDDN7TT247829",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/b91724da5080.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 42524.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Jeep Compass Altitude",
       "vin": "3C4NJDBNXTT247830",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/75a8059c37b9.html",
@@ -1726,17 +1660,6 @@
     },
     {
       "name": "2026 Jeep Compass Trailhawk",
-      "vin": "3C4NJDDN6TT247868",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/f1e1576b3fc8.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 42965.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass Trailhawk",
       "vin": "3C4NJDDN5TT247828",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/cc9d257778cc.html",
       "year": 2026,
@@ -1744,28 +1667,6 @@
       "model": "Compass",
       "condition": "new",
       "price": 44470.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass Limited",
-      "vin": "3C4NJDCN5TT247832",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/7b221d606b95.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 41935.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass North",
-      "vin": "3C4NJDBN5TT261604",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/a81648585d04.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 36769.0,
       "price_currency": "CAD"
     },
     {
@@ -1956,17 +1857,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Grand Cherokee Limited Reserve w/Premium Pack+Tow",
-      "vin": "1C4RJHAR7TC249446",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/2958d8e283cb.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "new",
-      "price": 69895.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Jeep Grand Cherokee Summit",
       "vin": "1C4RJHAR7T8590848",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/1943f4a17eb0.html",
@@ -2077,17 +1967,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Wrangler 4-Door Willys",
-      "vin": "1C4PJXDN9TW280044",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/ee24dcdfb8e8.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "new",
-      "price": 57530.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Jeep Wrangler 4-Door Rubicon",
       "vin": "1C4PJXFG5TW276216",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/0066fb6a0793.html",
@@ -2184,6 +2063,17 @@
       "model": "Wrangler",
       "condition": "new",
       "price": 44735.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Wrangler Rubicon",
+      "vin": "1C4PJXFG2TW226938",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/32280d1cd792.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "new",
+      "price": 82955.0,
       "price_currency": "CAD"
     },
     {
@@ -2327,17 +2217,6 @@
       "model": "1500",
       "condition": "new",
       "price": 73885.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 1500 Sport",
-      "vin": "1C6SRFVT5TN371044",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/f46725358829.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 75895.0,
       "price_currency": "CAD"
     },
     {
@@ -2539,17 +2418,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Tradesman 4x4 Crew Cab 6'4  Box",
-      "vin": "3C63R3CL3TG158866",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/c807a2ae1dd8.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "new",
-      "price": 84897.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 RAM 3500 Limited 4x4 Crew Cab 6'4  Box",
       "vin": "3C63R3SL4TG233379",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/1c872eda26ec.html",
@@ -2558,17 +2426,6 @@
       "model": "3500",
       "condition": "new",
       "price": 114194.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM ProMaster Cargo Van Low Roof 118 in. WB",
-      "vin": "3C6LRVNG7TE191943",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/f76a1fda1bb4.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "ProMaster",
-      "condition": "new",
-      "price": 62705.0,
       "price_currency": "CAD"
     },
     {
@@ -2638,36 +2495,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM ProMaster Cargo Van ",
+      "name": "2026 RAM ProMaster Cargo Van Tradesman",
       "vin": "3C6MRWEZ4TE202103",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/af1f96f79808.html",
       "year": 2026,
       "make": "RAM",
       "model": "ProMaster",
       "condition": "new",
-      "price": 84745.0,
+      "price": 72745.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM ProMaster Cargo Van ",
+      "name": "2026 RAM ProMaster Cargo Van Tradesman",
       "vin": "3C6MRWFZ1TE202459",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/6b40cad816aa.html",
       "year": 2026,
       "make": "RAM",
       "model": "ProMaster",
       "condition": "new",
-      "price": 82755.0,
+      "price": 70755.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM ProMaster Cargo Van ",
+      "name": "2026 RAM ProMaster Cargo Van Tradesman",
       "vin": "3C6MRWFZ0TE202534",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/a380093a263a.html",
       "year": 2026,
       "make": "RAM",
       "model": "ProMaster",
       "condition": "new",
-      "price": 83850.0,
+      "price": 71850.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 RAM ProMaster Cargo Van Tradesman",
+      "vin": "3C6MRWFZXTE202105",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/716cd7f24eb0.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "ProMaster",
+      "condition": "new",
+      "price": 73850.0,
       "price_currency": "CAD"
     },
     {
@@ -2759,17 +2627,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Chrysler Grand Caravan SXT 2WD",
-      "vin": "2C4RC1ZG3VR618771",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/029b20af8196.html",
-      "year": 2027,
-      "make": "Chrysler",
-      "model": "Grand Caravan",
-      "condition": "new",
-      "price": 50995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Chrysler Pacifica Select AWD",
       "vin": "2C4RC3BGXVR565556",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/e2667c51c840.html",
@@ -2814,17 +2671,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Chrysler Pacifica ",
-      "vin": "2C4RC3BG9VR558260",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/1f5ca9d36572.html",
-      "year": 2027,
-      "make": "Chrysler",
-      "model": "Pacifica",
-      "condition": "new",
-      "price": 59690.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Dodge Durango GT Plus AWD",
       "vin": "1C4RDJDG3VC581878",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/4c22cf7a7b59.html",
@@ -2843,7 +2689,7 @@
       "make": "Dodge",
       "model": "Durango",
       "condition": "new",
-      "price": 68480.0,
+      "price": 64130.0,
       "price_currency": "CAD"
     },
     {
@@ -2854,7 +2700,7 @@
       "make": "Dodge",
       "model": "Durango",
       "condition": "new",
-      "price": 74225.0,
+      "price": 70225.0,
       "price_currency": "CAD"
     },
     {
@@ -2866,6 +2712,39 @@
       "model": "Durango",
       "condition": "new",
       "price": 80230.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Dodge Durango GT HEMI Plus",
+      "vin": "1C4SDJCT9VC588561",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/a8d572623644.html",
+      "year": 2027,
+      "make": "Dodge",
+      "model": "Durango",
+      "condition": "new",
+      "price": 75330.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Dodge Durango GT Plus",
+      "vin": "1C4RDJDG5VC596950",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/d3f26f4f3d6a.html",
+      "year": 2027,
+      "make": "Dodge",
+      "model": "Durango",
+      "condition": "new",
+      "price": 71525.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Dodge Durango GT Plus",
+      "vin": "1C4RDJDG7VC596951",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/924e4e55e333.html",
+      "year": 2027,
+      "make": "Dodge",
+      "model": "Durango",
+      "condition": "new",
+      "price": 77025.0,
       "price_currency": "CAD"
     },
     {
@@ -2887,7 +2766,7 @@
       "make": "Jeep",
       "model": "Grand Wagoneer",
       "condition": "new",
-      "price": 101350.0,
+      "price": 99999.0,
       "price_currency": "CAD"
     },
     {
@@ -2986,7 +2865,7 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "new",
-      "price": 74025.0,
+      "price": 69025.0,
       "price_currency": "CAD"
     },
     {
@@ -3009,6 +2888,17 @@
       "model": "Wrangler",
       "condition": "new",
       "price": 77505.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Jeep Wrangler Willys",
+      "vin": "1C4PJXDG3VW586872",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/03b0ee767839.html",
+      "year": 2027,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "new",
+      "price": 69999.0,
       "price_currency": "CAD"
     },
     {
@@ -3063,7 +2953,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 117418.0,
+      "price": 109515.0,
       "price_currency": "CAD"
     },
     {
@@ -3074,7 +2964,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 69645.0,
+      "price": 66645.0,
       "price_currency": "CAD"
     },
     {
@@ -3085,7 +2975,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 70290.0,
+      "price": 67290.0,
       "price_currency": "CAD"
     },
     {
@@ -3096,7 +2986,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 70390.0,
+      "price": 67390.0,
       "price_currency": "CAD"
     },
     {
@@ -3107,29 +2997,29 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 70290.0,
+      "price": 67290.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500 ",
+      "name": "2027 RAM 1500 Rebel",
       "vin": "3C6SRFLP2V4514728",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/308dd55eddd9.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 94410.0,
+      "price": 90410.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500 ",
+      "name": "2027 RAM 1500 Express",
       "vin": "3C6SRFGP8V4514419",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/268378daadb9.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 73935.0,
+      "price": 70935.0,
       "price_currency": "CAD"
     },
     {
@@ -3251,6 +3141,94 @@
       "model": "1500",
       "condition": "new",
       "price": 70390.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 RAM 1500 TRX",
+      "vin": "1C6SRFU93VN610762",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/e866d7bc14e7.html",
+      "year": 2027,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 169999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 RAM 1500 Sport",
+      "vin": "3C6SRFVP5V4516969",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/807e5027ff8d.html",
+      "year": 2027,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 78330.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 RAM 1500 Sport",
+      "vin": "3C6SRFVP3V4516968",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/58088682d50d.html",
+      "year": 2027,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 78825.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 RAM 1500 Sport",
+      "vin": "1C6SRFTP3VN638237",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/6500ea556e38.html",
+      "year": 2027,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 86225.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 RAM 1500 Sport",
+      "vin": "1C6SRFVT1VN620149",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/b014e2ded6db.html",
+      "year": 2027,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 81325.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 RAM 1500 Sport",
+      "vin": "1C6SRFVT6VN598083",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/b882c8b93ebf.html",
+      "year": 2027,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 80380.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 RAM 1500 Sport",
+      "vin": "1C6SRFVTXVN620148",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/2d41b6053fc0.html",
+      "year": 2027,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 80680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 RAM 1500 Rebel",
+      "vin": "1C6SRFLP4VN619535",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/952418977e88.html",
+      "year": 2027,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 102280.0,
       "price_currency": "CAD"
     },
     {
