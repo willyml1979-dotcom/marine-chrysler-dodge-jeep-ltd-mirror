@@ -1,10 +1,41 @@
 {
   "dealership": "Marine Chrysler Dodge Jeep Ltd",
-  "generated_at": "2026-10-26T09:58:38",
-  "vehicle_count": 298,
+  "generated_at": "2026-11-16T20:06:58",
+  "vehicle_count": 300,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "2011 RAM 2500 Laramie",
+      "vin": "3D7UT2CLXBG546741",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/a7958c7cc552.html",
+      "year": 2011,
+      "make": "RAM",
+      "model": "2500",
+      "condition": "used",
+      "price": 29999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2015 Ford F-150",
+      "vin": "1FTFX1EF1FFA93495",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/d7454199e6c4.html",
+      "year": 2015,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used"
+    },
+    {
+      "name": "2015 Jeep Wrangler 4WD 2dr Sahara",
+      "vin": "1C4AJWBG3FL621948",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/44d4f32c8d14.html",
+      "year": 2015,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "used",
+      "price": 21999.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "2016 Honda Civic Sedan w/Honda Sensing",
       "vin": "2HGFC1F48GH103143",
@@ -13,7 +44,7 @@
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 19888.0,
+      "price": 18499.0,
       "price_currency": "CAD"
     },
     {
@@ -37,26 +68,6 @@
       "condition": "used"
     },
     {
-      "name": "2017 Ford F-350 Super Duty LARIAT, DIESEL, NO ACCIDENTS",
-      "vin": "1FT8W3BT9HEB87196",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/717a1556395e.html",
-      "year": 2017,
-      "make": "Ford",
-      "model": "F-350",
-      "condition": "used",
-      "price": 54999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Jeep Patriot",
-      "vin": "1C4NJPAA9HD101688",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/61b9daa318da.html",
-      "year": 2017,
-      "make": "Jeep",
-      "model": "Patriot",
-      "condition": "used"
-    },
-    {
       "name": "2017 Jeep Wrangler UNLIMITED SAHARA, LOCAL, NO ACCIDENTS",
       "vin": "1C4BJWEG4HL555817",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/12f1a5c3b7f2.html",
@@ -64,17 +75,8 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 27999.0,
+      "price": 25999.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Expedition Max",
-      "vin": "1FMJK2AT4KEA46774",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/129f44486855.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Expedition",
-      "condition": "used"
     },
     {
       "name": "2019 Ford Fusion Hybrid Titanium FWD",
@@ -88,23 +90,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Honda Civic Sedan",
+      "name": "2019 Honda Civic Sedan EX",
       "vin": "2HGFC2F76KH034980",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/5623675dedda.html",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/d1f1fae2519e.html",
       "year": 2019,
       "make": "Honda",
-      "model": "Civic Sedan",
-      "condition": "used"
-    },
-    {
-      "name": "2019 Honda Pilot BLACK EDITION",
-      "vin": "5FNYF6H02KB506264",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/2e903c10b418.html",
-      "year": 2019,
-      "make": "Honda",
-      "model": "Pilot",
+      "model": "Civic",
       "condition": "used",
-      "price": 23999.0,
+      "price": 19888.0,
       "price_currency": "CAD"
     },
     {
@@ -130,15 +123,24 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 RAM 1500 Classic Crew Cab Express 4x4 Crew Cab 5'7  Box",
-      "vin": "1C6RR7KTXKS599579",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/fe68f9ec2544.html",
-      "year": 2019,
-      "make": "RAM",
-      "model": "1500 Classic",
+      "name": "2020 Dodge Grand Caravan Passenger Van CREW, LOCAL, ONE OWNER LOW KMS!!!",
+      "vin": "2C4RDGDG3LR252430",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/a266eb5c0bbc.html",
+      "year": 2020,
+      "make": "Dodge",
+      "model": "Grand Caravan",
       "condition": "used",
-      "price": 23499.0,
+      "price": 27499.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Dodge Grand Caravan Passenger Van Crew Plus",
+      "vin": "2C4RDGDG8LR178261",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/9222f6965ef2.html",
+      "year": 2020,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "condition": "used"
     },
     {
       "name": "2020 Ford Explorer XLT, MOONROOF, CO-PILOT 360",
@@ -174,17 +176,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Mercedes-Benz CLA Coupe CLA 250, LOCAL, NO ACCIDENTS",
-      "vin": "W1K5J4HB9LN084669",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/000ed5da54ca.html",
-      "year": 2020,
-      "make": "Mercedes-Benz",
-      "model": "CLA",
-      "condition": "used",
-      "price": 23649.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Mercedes-Benz GLE 350, LOCAL, NO ACCIDENTS",
       "vin": "4JGFB4KB0LA113211",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/6c52f07fab11.html",
@@ -196,69 +187,45 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 RAM 1500 SPORT NO ACCIDENTS",
-      "vin": "1C6SRFLT0LN227582",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/3bca88ca61e7.html",
+      "name": "2020 RAM 1500 Rebel",
+      "vin": "1C6SRFLM0LN364563",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/99e7ae4db1ca.html",
       "year": 2020,
       "make": "RAM",
       "model": "1500",
-      "condition": "used",
-      "price": 36888.0,
-      "price_currency": "CAD"
+      "condition": "used"
     },
     {
-      "name": "2020 RAM 1500 SPORT, LOCAL, ONE OWNER",
-      "vin": "1C6SRFLT4LN303174",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/a0456d3a0395.html",
-      "year": 2020,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 44999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Chevrolet Trailblazer FWD 4dr LT",
-      "vin": "KL79MPSL6MB079452",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/c595280f3e49.html",
+      "name": "2021 Honda Civic Sedan TOURING, LOCAL, ONE OWNER, NO ACCIDENTS",
+      "vin": "2HGFC1F93MH101257",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/b428230dceec.html",
       "year": 2021,
-      "make": "Chevrolet",
-      "model": "Trailblazer",
+      "make": "Honda",
+      "model": "Civic",
       "condition": "used",
-      "price": 19999.0,
+      "price": 25401.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Jeep Gladiator RUBICON, LOCAL, ONE OWNER, NO ACCIDENTS",
-      "vin": "1C6JJTBG4ML549936",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/e7afd998c6a5.html",
+      "name": "2021 Jeep Gladiator RUBICON, LOCAL, ONE OWNER",
+      "vin": "1C6JJTBG9ML539158",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/15cd21f69318.html",
       "year": 2021,
       "make": "Jeep",
       "model": "Gladiator",
       "condition": "used",
-      "price": 39499.0,
+      "price": 42999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Jeep Wrangler 4xe RUBICON 4XE, ONE OWNER",
-      "vin": "1C4JJXR66MW660841",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/14a7ea94b665.html",
+      "name": "2021 Jeep Grand Cherokee LIMITED, LOCAL, NO ACCIDENTS",
+      "vin": "1C4RJFBG7MC787275",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/14a473273ee2.html",
       "year": 2021,
       "make": "Jeep",
-      "model": "Wrangler",
+      "model": "Grand Cherokee L",
       "condition": "used",
-      "price": 34399.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Jeep Wrangler RUBICON, LOCAL, NO ACCIDENTS",
-      "vin": "1C4HJXCG9MW820226",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/8e8329136583.html",
-      "year": 2021,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 39999.0,
+      "price": 33999.0,
       "price_currency": "CAD"
     },
     {
@@ -269,7 +236,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 20499.0,
+      "price": 18499.0,
       "price_currency": "CAD"
     },
     {
@@ -295,26 +262,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 RAM 1500 Classic Crew Cab",
-      "vin": "3C6RR7KT3MG615700",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/a71fd2465f71.html",
-      "year": 2021,
-      "make": "RAM",
-      "model": "1500 Classic Crew Cab",
-      "condition": "used"
-    },
-    {
-      "name": "2021 RAM 1500 Classic Quad Cab Express 4x4 Quad Cab 6'4  Box",
-      "vin": "1C6RR7FGXMS527507",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/cf7e7c367848.html",
-      "year": 2021,
-      "make": "RAM",
-      "model": "1500 Classic",
-      "condition": "used",
-      "price": 21999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Tesla Model 3 LOCAL, ONE OWNER, NO ACCIDENTS",
       "vin": "5YJ3E1EA4MF908495",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/398c4a21c894.html",
@@ -326,25 +273,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Toyota Tacoma LOCAL, NO ACCIDENTS",
+      "name": "2021 Toyota Tacoma Double Cab LOCAL, NO ACCIDENTS",
       "vin": "5TFDZ5BN2MX058671",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/50d31dcc2295.html",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/6fa5e2228e07.html",
       "year": 2021,
       "make": "Toyota",
-      "model": "Tacoma LOCAL, NO ACCIDENTS",
+      "model": "Tacoma Double Cab LOCAL, NO ACCIDENTS",
       "condition": "used",
-      "price": 43649.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Chrysler Pacifica ",
-      "vin": "2C4RC3PG9NR101005",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/e6a37d0d05a4.html",
-      "year": 2022,
-      "make": "Chrysler",
-      "model": "Pacifica",
-      "condition": "used",
-      "price": 39999.0,
+      "price": 42299.0,
       "price_currency": "CAD"
     },
     {
@@ -359,6 +295,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 Ford F-150 Lightning ",
+      "vin": "1FTVW1EL1NWG11981",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/9ed31813375b.html",
+      "year": 2022,
+      "make": "Ford",
+      "model": "F-150 Lightning",
+      "condition": "used",
+      "price": 58888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Ford F-150 PLATINUM, NO ACCIDENTS",
+      "vin": "1FTFW1E87NFB71748",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/3311fe073890.html",
+      "year": 2022,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 59499.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2022 Honda Civic Sedan Touring CVT",
       "vin": "2HGFE1F91NH004246",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/0f34b43f3bc8.html",
@@ -366,7 +324,7 @@
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 27342.0,
+      "price": 26499.0,
       "price_currency": "CAD"
     },
     {
@@ -392,28 +350,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 RAM 3500 Mega Cab LIMITED LONGHORN, MEGA CAB - LIFTED",
-      "vin": "3C63R3NL7NG236629",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/becbe66ced8a.html",
-      "year": 2022,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "used",
-      "price": 79888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 RAM 3500 LIMITED, LOCAL, ONE OWNER",
-      "vin": "3C63R3SL8NG338915",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/7877aee11ec8.html",
-      "year": 2022,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "used",
-      "price": 73499.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Toyota RAV4 Hybrid Hybrid XLE AWD",
       "vin": "2T3RWRFVXNW146311",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/22f77202d3fa.html",
@@ -425,6 +361,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 Toyota RAV4 Hybrid XLE",
+      "vin": "2T3RWRFV2NW147579",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/0cb74ba864fc.html",
+      "year": 2022,
+      "make": "Toyota",
+      "model": "RAV4 Hybrid",
+      "condition": "used",
+      "price": 43999.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Chevrolet Bolt EUV LOCAL, NO ACCIDENTS",
       "vin": "1G1FY6S04P4196622",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/5b73249e24c6.html",
@@ -432,7 +379,7 @@
       "make": "Chevrolet",
       "model": "Bolt EUV LOCAL, NO ACCIDENTS",
       "condition": "used",
-      "price": 22899.0,
+      "price": 21499.0,
       "price_currency": "CAD"
     },
     {
@@ -443,7 +390,7 @@
       "make": "Chevrolet",
       "model": "Malibu Sedan LOCAL, ONE OWNER",
       "condition": "used",
-      "price": 20999.0,
+      "price": 19499.0,
       "price_currency": "CAD"
     },
     {
@@ -469,17 +416,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Honda Passport TrailSport, LOCAL, ONE OWNER",
-      "vin": "5FNYF8H67PB501312",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/13c18649dfa6.html",
-      "year": 2023,
-      "make": "Honda",
-      "model": "Passport",
-      "condition": "used",
-      "price": 40499.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Hyundai Elantra PREFERRED, LOCAL, NO ACCIDENTS",
       "vin": "KMHLM4AG2PU535057",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/769540df2504.html",
@@ -502,15 +438,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Hyundai Palisade 8 Passenger",
-      "vin": "KM8R3DGE3PU620086",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/a2e28758b376.html",
-      "year": 2023,
-      "make": "Hyundai",
-      "model": "Palisade",
-      "condition": "used"
-    },
-    {
       "name": "2023 Jeep Wrangler WILLYS, LOCAL,ONE OWNER NO ACCIDENTS",
       "vin": "1C4HJXAGXPW595936",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/d3a4c8bd58cc.html",
@@ -518,7 +445,7 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 36999.0,
+      "price": 35499.0,
       "price_currency": "CAD"
     },
     {
@@ -533,17 +460,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Jeep Wrangler ",
-      "vin": "1C4HJXEN6PW667563",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/1caee2a9941f.html",
-      "year": 2023,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 39999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Lexus NX 350 F SPORT 3",
       "vin": "2T2KGCEZ4PC021958",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/3d198e254ceb.html",
@@ -551,28 +467,19 @@
       "make": "Lexus",
       "model": "NX",
       "condition": "used",
-      "price": 40999.0,
+      "price": 39499.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 RAM 1500 Classic Crew Cab SLT, NO ACCIDENTS",
-      "vin": "3C6RR7LG8PG678829",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/7e4397af1e94.html",
+      "name": "2023 Tesla Model Y LOCAL, NO ACCIDENTS",
+      "vin": "LRWYGDFD8PC902692",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/1e2310d55dd5.html",
       "year": 2023,
-      "make": "RAM",
-      "model": "1500 Classic",
+      "make": "Tesla",
+      "model": "Model Y LOCAL, NO ACCIDENTS",
       "condition": "used",
       "price": 37999.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2023 RAM 1500",
-      "vin": "1C6SRFLT7PN632179",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/13be5a7831aa.html",
-      "year": 2023,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used"
     },
     {
       "name": "2023 Volkswagen Golf R 20th Anniversary DSG",
@@ -582,7 +489,7 @@
       "make": "Volkswagen",
       "model": "Golf R",
       "condition": "used",
-      "price": 40256.0,
+      "price": 38888.0,
       "price_currency": "CAD"
     },
     {
@@ -593,7 +500,18 @@
       "make": "Chevrolet",
       "model": "Trax",
       "condition": "used",
-      "price": 26999.0,
+      "price": 24999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Chevrolet Trax NO ACCIDENTS",
+      "vin": "KL77LHE25RC238854",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/63e880cf69ca.html",
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "condition": "used",
+      "price": 23999.0,
       "price_currency": "CAD"
     },
     {
@@ -608,36 +526,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Dodge Hornet R/T PHEV, LOCAL, NO ACCIDENTS",
+      "name": "2024 Dodge Hornet PHEV R/T PHEV, LOCAL, NO ACCIDENTS",
       "vin": "ZACPDFCW9R3A19876",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/e662938aea49.html",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/1b876a83b0c3.html",
       "year": 2024,
       "make": "Dodge",
-      "model": "Hornet",
+      "model": "Hornet PHEV",
       "condition": "used",
-      "price": 32999.0,
+      "price": 29999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Jeep Grand Cherokee SUMMIT, LOCAL, ONE OWNER",
-      "vin": "1C4RJHEG4R8945038",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/edac725fbd80.html",
+      "name": "2024 Honda Civic Sedan SPORT, LOCAL, ONE OWNER, NO ACCIDENTS",
+      "vin": "2HGFE2F56RH109454",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/fa305dc8a6ab.html",
+      "year": 2024,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "used",
+      "price": 28888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Jeep Grand Cherokee Summit",
+      "vin": "1C4RJHEG8R8589368",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/a2382025b752.html",
       "year": 2024,
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 56999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Jeep Wagoneer S LOCAL, NO ACCIDENTS",
-      "vin": "3C4RJNAKXRT177186",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/5b247e3949fe.html",
-      "year": 2024,
-      "make": "Jeep",
-      "model": "Wagoneer S LOCAL, NO ACCIDENTS",
-      "condition": "used",
-      "price": 53999.0,
+      "price": 69158.0,
       "price_currency": "CAD"
     },
     {
@@ -674,17 +592,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Mitsubishi RVR ES, LOCAL, NO ACCIDENTS",
-      "vin": "JA4AHUAU6RU610314",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/d23eb81f9f70.html",
-      "year": 2024,
-      "make": "Mitsubishi",
-      "model": "RVR",
-      "condition": "used",
-      "price": 20999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Toyota RAV4 Hybrid XSE, LOCAL, NO ACCIDENTS",
       "vin": "2T35WRFV2RW236606",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/672a7574fb3f.html",
@@ -693,6 +600,28 @@
       "model": "RAV4 Hybrid",
       "condition": "used",
       "price": 40999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Toyota Sienna XSE HYBRID, LOCAL, ONE OWNER",
+      "vin": "5TDGRKEC9RS216538",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/cc406dd96f8b.html",
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Sienna",
+      "condition": "used",
+      "price": 56699.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Audi Q3 quattro",
+      "vin": "WA1AUCF3XS1067398",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/0db0116458a7.html",
+      "year": 2025,
+      "make": "Audi",
+      "model": "Q3",
+      "condition": "used",
+      "price": 39999.0,
       "price_currency": "CAD"
     },
     {
@@ -729,28 +658,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Chrysler Pacifica LIMITED, 7 PASSENGER",
-      "vin": "2C4RC1GG7SR545760",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/ba81e3d8cf79.html",
-      "year": 2025,
-      "make": "Chrysler",
-      "model": "Pacifica",
-      "condition": "used",
-      "price": 37999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford Bronco Sport BIG BEND, LOCAL, NO ACCIDENTS",
-      "vin": "3FMCR9BN9SRE44430",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/214308a5ce53.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "used",
-      "price": 28888.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Ford Escape PLATINUM, LOCAL, NO ACCIDENTS",
       "vin": "1FMCU9JA9SUB07035",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/3a67f5150a35.html",
@@ -769,18 +676,18 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 52999.0,
+      "price": 51403.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Honda Pilot ",
+      "name": "2025 Honda Pilot TRAILSPORT, LOCAL, ONE OWNER, NO ACCIDENTS",
       "vin": "5FNYG1H63SB500171",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/ca02ede9c2ad.html",
       "year": 2025,
       "make": "Honda",
       "model": "Pilot",
       "condition": "used",
-      "price": 54999.0,
+      "price": 53649.0,
       "price_currency": "CAD"
     },
     {
@@ -817,6 +724,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Mazda CX-70 MHEV LOCAL, NO ACCIDENTS",
+      "vin": "JM3KJDHD1S1122259",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/f5a36291232a.html",
+      "year": 2025,
+      "make": "Mazda",
+      "model": "CX-70 MHEV LOCAL, NO ACCIDENTS",
+      "condition": "used",
+      "price": 41999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Mercedes-Benz CLA Coupe 4MATIC, LOCAL, NO ACCIDENTS",
+      "vin": "W1K5J4HB0SN529413",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/3fd465cc1ed6.html",
+      "year": 2025,
+      "make": "Mercedes-Benz",
+      "model": "CLA",
+      "condition": "used",
+      "price": 36999.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 Nissan Kicks Play LOCAL, ONE OWNER",
       "vin": "3N1CP5CV1SL496562",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/641b26aa6faf.html",
@@ -828,6 +757,39 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Nissan Rogue SV, LOCAL, NO ACCIDENTS",
+      "vin": "JN8BT3BB0SW166927",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/9af1d81038f3.html",
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "used",
+      "price": 27499.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Nissan Rogue S AWD, LOCAL, NO ACCIDENTS",
+      "vin": "JN8BT3AB9SW173781",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/313cace3925d.html",
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "used",
+      "price": 26999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Nissan Rogue SV, LOCAL, NO ACCIDENTS",
+      "vin": "JN8BT3BB9SW166506",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/4d8bd0d4a66f.html",
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "used",
+      "price": 28999.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 RAM 1500 REBEL, LOCAL, ONE OWNER, NO ACCIDENTS",
       "vin": "1C6SRFLP6SN570978",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/3c4894b75858.html",
@@ -835,18 +797,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 67999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 RAM ProMaster Cargo Van HIGH ROOF, 159\" EXT",
-      "vin": "3C6MRVJGXSE543843",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/4126f98199db.html",
-      "year": 2025,
-      "make": "RAM",
-      "model": "ProMaster",
-      "condition": "used",
-      "price": 49999.0,
+      "price": 64999.0,
       "price_currency": "CAD"
     },
     {
@@ -869,6 +820,17 @@
       "model": "Taos",
       "condition": "used",
       "price": 28499.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Audi A3 Sedan FrontTrak",
+      "vin": "WAUGUCGY7TA018992",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/2b53108d4418.html",
+      "year": 2026,
+      "make": "Audi",
+      "model": "A3",
+      "condition": "used",
+      "price": 36999.0,
       "price_currency": "CAD"
     },
     {
@@ -1015,6 +977,39 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Ford Mustang GT, LIKE NEW",
+      "vin": "1FA6P8CF4T5404601",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/50a22a8cc8e4.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Mustang",
+      "condition": "used",
+      "price": 53999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Honda Civic Sedan Hybrid SPORT, LOCAL, NO ACCIDENTS",
+      "vin": "2HGFE4F88TH013886",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/647d5c43e2dd.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "used",
+      "price": 39777.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Honda Civic Sedan Hybrid LOCAL, NO ACCIDENTS",
+      "vin": "2HGFE4F86TH010212",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/087f71fc4270.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "Civic Sedan Hybrid LOCAL, NO ACCIDENTS",
+      "condition": "used",
+      "price": 38888.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Hyundai Tucson Hybrid N LINE, LOCAL, ONE OWNER, NO ACCIDENTS",
       "vin": "KM8JCDD17TU453823",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/a22deea336e4.html",
@@ -1026,6 +1021,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Jeep Compass NORTH, LOCAL, NO ACCIDENTS",
+      "vin": "3C4NJDBN7TT261605",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/23b2479bcdc0.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "used",
+      "price": 38888.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Jeep Grand Cherokee Summit - LOCAL, ONE OWNER, NO ACCIDETNS",
       "vin": "1C4RJHARXT8585143",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/859ea015c56d.html",
@@ -1033,7 +1039,7 @@
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 74999.0,
+      "price": 73999.0,
       "price_currency": "CAD"
     },
     {
@@ -2199,7 +2205,7 @@
       "make": "Mazda",
       "model": "Mazda3",
       "condition": "used",
-      "price": 30479.0,
+      "price": 28888.0,
       "price_currency": "CAD"
     },
     {
@@ -2214,14 +2220,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 1500 ",
-      "vin": "3C6SRFVP4T4152878",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/567f8dc6967a.html",
+      "name": "2026 Mitsubishi RVR ES, LOCAL, NO ACCIDENTS",
+      "vin": "JA4AJUAU1TU602598",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/75f2fa6c10fb.html",
       "year": 2026,
-      "make": "RAM",
-      "model": "1500",
+      "make": "Mitsubishi",
+      "model": "RVR",
       "condition": "used",
-      "price": 74570.0,
+      "price": 26999.0,
       "price_currency": "CAD"
     },
     {
@@ -2665,6 +2671,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Toyota Corolla Cross L",
+      "vin": "7MUAAAAG4TV175037",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/66fcb4dbeaf8.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Corolla Cross",
+      "condition": "used",
+      "price": 34999.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Volkswagen Tiguan R-LINE BLACK, LOCAL, NO ACCIDENTS",
       "vin": "3VVGR7RM1TM061315",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/8c64c724bd2a.html",
@@ -2673,6 +2690,17 @@
       "model": "Tiguan",
       "condition": "used",
       "price": 43999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Bolt LIKE NEW",
+      "vin": "1G1FY6EV6VF101695",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/e1aec91a5d7f.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Bolt",
+      "condition": "used",
+      "price": 35999.0,
       "price_currency": "CAD"
     },
     {
