@@ -1,6 +1,6 @@
 {
   "dealership": "Marine Chrysler Dodge Jeep Ltd",
-  "generated_at": "2026-11-18T11:49:22",
+  "generated_at": "2026-11-18T13:37:53",
   "vehicle_count": 295,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -101,7 +101,7 @@
       "make": "Nissan",
       "model": "Sentra LOCAL, NO ACCIDENTS",
       "condition": "used",
-      "price": 11399.0,
+      "price": 10999.0,
       "price_currency": "CAD"
     },
     {
@@ -132,7 +132,7 @@
       "make": "Ford",
       "model": "Explorer",
       "condition": "used",
-      "price": 27999.0,
+      "price": 26499.0,
       "price_currency": "CAD"
     },
     {
@@ -315,7 +315,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 45499.0,
+      "price": 43999.0,
       "price_currency": "CAD"
     },
     {
@@ -370,7 +370,7 @@
       "make": "Ford",
       "model": "F-150 Regular Cab LOCAL, ONE OWNER, NO ACCIDENTS",
       "condition": "used",
-      "price": 38999.0,
+      "price": 37499.0,
       "price_currency": "CAD"
     },
     {
@@ -381,7 +381,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 85999.0,
+      "price": 83999.0,
       "price_currency": "CAD"
     },
     {
@@ -403,7 +403,7 @@
       "make": "Hyundai",
       "model": "Kona",
       "condition": "used",
-      "price": 22999.0,
+      "price": 22799.0,
       "price_currency": "CAD"
     },
     {
@@ -425,7 +425,7 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 35999.0,
+      "price": 33649.0,
       "price_currency": "CAD"
     },
     {
@@ -557,7 +557,7 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 48499.0,
+      "price": 47117.0,
       "price_currency": "CAD"
     },
     {
@@ -623,7 +623,7 @@
       "make": "Chevrolet",
       "model": "Equinox",
       "condition": "used",
-      "price": 39999.0,
+      "price": 37649.0,
       "price_currency": "CAD"
     },
     {
@@ -678,7 +678,7 @@
       "make": "Hyundai",
       "model": "Palisade",
       "condition": "used",
-      "price": 43999.0,
+      "price": 43399.0,
       "price_currency": "CAD"
     },
     {
@@ -810,7 +810,7 @@
       "make": "Dodge",
       "model": "Durango",
       "condition": "used",
-      "price": 52999.0,
+      "price": 49999.0,
       "price_currency": "CAD"
     },
     {
@@ -1019,7 +1019,7 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 91999.0,
+      "price": 89499.0,
       "price_currency": "CAD"
     },
     {
@@ -2513,7 +2513,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 43999.0,
+      "price": 41999.0,
       "price_currency": "CAD"
     },
     {
