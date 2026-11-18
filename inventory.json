@@ -1,21 +1,10 @@
 {
   "dealership": "Marine Chrysler Dodge Jeep Ltd",
-  "generated_at": "2026-11-17T13:15:57",
-  "vehicle_count": 298,
+  "generated_at": "2026-11-17T18:50:12",
+  "vehicle_count": 297,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
-    {
-      "name": "2011 RAM 2500 Laramie",
-      "vin": "3D7UT2CLXBG546741",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/a7958c7cc552.html",
-      "year": 2011,
-      "make": "RAM",
-      "model": "2500",
-      "condition": "used",
-      "price": 29999.0,
-      "price_currency": "CAD"
-    },
     {
       "name": "2015 Ford F-150",
       "vin": "1FTFX1EF1FFA93495",
@@ -59,13 +48,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 BMW X6",
+      "name": "2017 BMW X6 xDrive",
       "vin": "5UXKU2C34H0X48016",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/06a35e5145c2.html",
       "year": 2017,
       "make": "BMW",
       "model": "X6",
-      "condition": "used"
+      "condition": "used",
+      "price": 24999.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2017 Jeep Wrangler UNLIMITED SAHARA, LOCAL, NO ACCIDENTS",
@@ -165,17 +156,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Mazda Mazda3 Sport GT AWD NO ACCIDENTS",
-      "vin": "JM1BPBMM9L1148109",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/ccae585c969a.html",
-      "year": 2020,
-      "make": "Mazda",
-      "model": "Mazda3",
-      "condition": "used",
-      "price": 22999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Mercedes-Benz GLE 350, LOCAL, NO ACCIDENTS",
       "vin": "4JGFB4KB0LA113211",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/6c52f07fab11.html",
@@ -227,6 +207,15 @@
       "condition": "used",
       "price": 33999.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Jeep Grand Cherokee OVERLAND 3.6L",
+      "vin": "1C4RJFCG3MC839421",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/7040dc085888.html",
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "condition": "used"
     },
     {
       "name": "2021 Nissan Rogue S AWD",
@@ -423,7 +412,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "used",
-      "price": 21467.0,
+      "price": 20199.0,
       "price_currency": "CAD"
     },
     {
@@ -522,7 +511,7 @@
       "make": "Chrysler",
       "model": "Pacifica Hybrid",
       "condition": "used",
-      "price": 50999.0,
+      "price": 48888.0,
       "price_currency": "CAD"
     },
     {
@@ -570,14 +559,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Jeep Wrangler 4xe ",
+      "name": "2024 Jeep Wrangler 4xe RUBICON 4XE, LOCAL, ONE OWNER, NO ACCIDENTS",
       "vin": "1C4RJXR62RW193640",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/f470326a5d4a.html",
       "year": 2024,
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 54999.0,
+      "price": 51999.0,
       "price_currency": "CAD"
     },
     {
@@ -599,7 +588,7 @@
       "make": "Toyota",
       "model": "RAV4 Hybrid",
       "condition": "used",
-      "price": 40999.0,
+      "price": 38888.0,
       "price_currency": "CAD"
     },
     {
@@ -632,7 +621,7 @@
       "make": "BMW",
       "model": "X1",
       "condition": "used",
-      "price": 39499.0,
+      "price": 37763.0,
       "price_currency": "CAD"
     },
     {
@@ -643,7 +632,7 @@
       "make": "Buick",
       "model": "Enclave LOCAL, NO ACCIDENTS",
       "condition": "used",
-      "price": 47499.0,
+      "price": 46999.0,
       "price_currency": "CAD"
     },
     {
@@ -665,7 +654,7 @@
       "make": "Ford",
       "model": "Escape",
       "condition": "used",
-      "price": 28999.0,
+      "price": 27999.0,
       "price_currency": "CAD"
     },
     {
@@ -698,7 +687,7 @@
       "make": "Hyundai",
       "model": "Kona LOCAL, NO ACCIDENTS",
       "condition": "used",
-      "price": 29999.0,
+      "price": 28499.0,
       "price_currency": "CAD"
     },
     {
@@ -1017,7 +1006,7 @@
       "make": "Hyundai",
       "model": "Tucson Hybrid",
       "condition": "used",
-      "price": 41799.0,
+      "price": 41499.0,
       "price_currency": "CAD"
     },
     {
@@ -2084,7 +2073,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "used",
-      "price": 35999.0,
+      "price": 33499.0,
       "price_currency": "CAD"
     },
     {
@@ -2106,7 +2095,7 @@
       "make": "Mercedes-Benz",
       "model": "GLA",
       "condition": "used",
-      "price": 42415.0,
+      "price": 38888.0,
       "price_currency": "CAD"
     },
     {
@@ -2128,7 +2117,7 @@
       "make": "RAM",
       "model": "ProMaster",
       "condition": "used",
-      "price": 49499.0,
+      "price": 46999.0,
       "price_currency": "CAD"
     },
     {
@@ -2539,15 +2528,13 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Corolla Cross L",
-      "vin": "7MUAAAAG4TV175037",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/66fcb4dbeaf8.html",
+      "name": "2026 Volkswagen Jetta Sedan Comfortline",
+      "vin": "3VWSW7BU6TM004021",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/bf6557d57596.html",
       "year": 2026,
-      "make": "Toyota",
-      "model": "Corolla Cross",
-      "condition": "used",
-      "price": 34999.0,
-      "price_currency": "CAD"
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "used"
     },
     {
       "name": "2026 Volkswagen Tiguan R-LINE BLACK, LOCAL, NO ACCIDENTS",
