@@ -1,6 +1,6 @@
 {
   "dealership": "Marine Chrysler Dodge Jeep Ltd",
-  "generated_at": "2026-11-17T18:50:12",
+  "generated_at": "2026-11-18T03:07:31",
   "vehicle_count": 297,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1116,7 +1116,7 @@
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 43798.0,
+      "price": 42988.0,
       "price_currency": "CAD"
     },
     {
@@ -1127,7 +1127,7 @@
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 43798.0,
+      "price": 42988.0,
       "price_currency": "CAD"
     },
     {
@@ -1138,7 +1138,7 @@
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 43798.0,
+      "price": 42988.0,
       "price_currency": "CAD"
     },
     {
@@ -1149,7 +1149,7 @@
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 43798.0,
+      "price": 42988.0,
       "price_currency": "CAD"
     },
     {
@@ -1160,7 +1160,7 @@
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 43798.0,
+      "price": 42988.0,
       "price_currency": "CAD"
     },
     {
@@ -1171,7 +1171,7 @@
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 43798.0,
+      "price": 42988.0,
       "price_currency": "CAD"
     },
     {
@@ -1182,7 +1182,7 @@
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 43798.0,
+      "price": 42988.0,
       "price_currency": "CAD"
     },
     {
@@ -1193,7 +1193,7 @@
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 43798.0,
+      "price": 42988.0,
       "price_currency": "CAD"
     },
     {
@@ -3010,14 +3010,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500 ",
+      "name": "2027 RAM 1500 Express",
       "vin": "3C6SRFGP4V4514420",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/ac80132c5857.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 74580.0,
+      "price": 71580.0,
       "price_currency": "CAD"
     },
     {
@@ -3028,7 +3028,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 121726.0,
+      "price": 113455.0,
       "price_currency": "CAD"
     },
     {
@@ -3039,7 +3039,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 69645.0,
+      "price": 66645.0,
       "price_currency": "CAD"
     },
     {
@@ -3050,7 +3050,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 119770.0,
+      "price": 111475.0,
       "price_currency": "CAD"
     },
     {
@@ -3061,7 +3061,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 75035.0,
+      "price": 71035.0,
       "price_currency": "CAD"
     },
     {
@@ -3072,7 +3072,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 75035.0,
+      "price": 71035.0,
       "price_currency": "CAD"
     },
     {
@@ -3252,14 +3252,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM ProMaster 3500 ",
+      "name": "2027 RAM ProMaster 3500 Tradesman",
       "vin": "3C6MRVJG6VE560448",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/c2892e1c13af.html",
       "year": 2027,
       "make": "RAM",
       "model": "ProMaster",
       "condition": "new",
-      "price": 70930.0,
+      "price": 72930.0,
       "price_currency": "CAD"
     }
   ]
