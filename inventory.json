@@ -1,19 +1,10 @@
 {
   "dealership": "Marine Chrysler Dodge Jeep Ltd",
-  "generated_at": "2026-11-18T03:07:31",
-  "vehicle_count": 297,
+  "generated_at": "2026-11-18T05:00:23",
+  "vehicle_count": 295,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
-    {
-      "name": "2015 Ford F-150",
-      "vin": "1FTFX1EF1FFA93495",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/d7454199e6c4.html",
-      "year": 2015,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used"
-    },
     {
       "name": "2015 Jeep Wrangler 4WD 2dr Sahara",
       "vin": "1C4AJWBG3FL621948",
@@ -44,7 +35,7 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 24649.0,
+      "price": 22499.0,
       "price_currency": "CAD"
     },
     {
@@ -77,7 +68,7 @@
       "make": "Ford",
       "model": "Fusion Hybrid",
       "condition": "used",
-      "price": 15499.0,
+      "price": 14499.0,
       "price_currency": "CAD"
     },
     {
@@ -99,7 +90,7 @@
       "make": "Jeep",
       "model": "Grand Cherokee L",
       "condition": "used",
-      "price": 18499.0,
+      "price": 16999.0,
       "price_currency": "CAD"
     },
     {
@@ -236,7 +227,7 @@
       "make": "RAM",
       "model": "1500 Classic",
       "condition": "used",
-      "price": 36999.0,
+      "price": 35499.0,
       "price_currency": "CAD"
     },
     {
@@ -247,18 +238,7 @@
       "make": "RAM",
       "model": "1500 Classic",
       "condition": "used",
-      "price": 34499.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Tesla Model 3 LOCAL, ONE OWNER, NO ACCIDENTS",
-      "vin": "5YJ3E1EA4MF908495",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/398c4a21c894.html",
-      "year": 2021,
-      "make": "Tesla",
-      "model": "Model 3 LOCAL, ONE OWNER, NO ACCIDENTS",
-      "condition": "used",
-      "price": 30999.0,
+      "price": 32999.0,
       "price_currency": "CAD"
     },
     {
@@ -555,7 +535,7 @@
       "make": "Jeep",
       "model": "Wagoneer S LOCAL, ONE OWNER, NO ACCIDENTS",
       "condition": "used",
-      "price": 53999.0,
+      "price": 52999.0,
       "price_currency": "CAD"
     },
     {
@@ -603,14 +583,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Audi Q3 quattro",
-      "vin": "WA1AUCF3XS1067398",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/0db0116458a7.html",
-      "year": 2025,
-      "make": "Audi",
-      "model": "Q3",
+      "name": "2024 Toyota Tundra SR5",
+      "vin": "5TFLA5EC5RX031498",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/3092fe11e21d.html",
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Tundra",
       "condition": "used",
-      "price": 39999.0,
+      "price": 54999.0,
       "price_currency": "CAD"
     },
     {
@@ -713,6 +693,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Kia Sportage LX",
+      "vin": "KNDPUCDF1S7385811",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/761036ae2c55.html",
+      "year": 2025,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "used",
+      "price": 28800.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 Mazda CX-70 MHEV LOCAL, NO ACCIDENTS",
       "vin": "JM3KJDHD1S1122259",
       "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/f5a36291232a.html",
@@ -742,7 +733,7 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 23799.0,
+      "price": 21999.0,
       "price_currency": "CAD"
     },
     {
@@ -797,7 +788,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 28999.0,
+      "price": 26999.0,
       "price_currency": "CAD"
     },
     {
@@ -808,18 +799,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 28499.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Audi A3 Sedan FrontTrak",
-      "vin": "WAUGUCGY7TA018992",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/used/2b53108d4418.html",
-      "year": 2026,
-      "make": "Audi",
-      "model": "A3",
-      "condition": "used",
-      "price": 36999.0,
+      "price": 26699.0,
       "price_currency": "CAD"
     },
     {
@@ -841,7 +821,7 @@
       "make": "Dodge",
       "model": "Durango",
       "condition": "used",
-      "price": 54999.0,
+      "price": 53888.0,
       "price_currency": "CAD"
     },
     {
@@ -852,7 +832,7 @@
       "make": "Dodge",
       "model": "Durango",
       "condition": "used",
-      "price": 54999.0,
+      "price": 53999.0,
       "price_currency": "CAD"
     },
     {
@@ -863,7 +843,7 @@
       "make": "Dodge",
       "model": "Durango",
       "condition": "used",
-      "price": 54999.0,
+      "price": 54499.0,
       "price_currency": "CAD"
     },
     {
