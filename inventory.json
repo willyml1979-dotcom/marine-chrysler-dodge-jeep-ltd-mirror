@@ -1,6 +1,6 @@
 {
   "dealership": "Marine Chrysler Dodge Jeep Ltd",
-  "generated_at": "2026-11-18T05:00:23",
+  "generated_at": "2026-11-18T11:49:22",
   "vehicle_count": 295,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1195,7 +1195,7 @@
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 43798.0,
+      "price": 42988.0,
       "price_currency": "CAD"
     },
     {
@@ -1206,7 +1206,7 @@
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 43798.0,
+      "price": 42988.0,
       "price_currency": "CAD"
     },
     {
@@ -1228,7 +1228,7 @@
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 43798.0,
+      "price": 42988.0,
       "price_currency": "CAD"
     },
     {
@@ -1239,7 +1239,7 @@
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 43798.0,
+      "price": 42988.0,
       "price_currency": "CAD"
     },
     {
@@ -1250,7 +1250,7 @@
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 43798.0,
+      "price": 42988.0,
       "price_currency": "CAD"
     },
     {
@@ -1272,7 +1272,7 @@
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 43798.0,
+      "price": 42988.0,
       "price_currency": "CAD"
     },
     {
@@ -1283,7 +1283,7 @@
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 43798.0,
+      "price": 42988.0,
       "price_currency": "CAD"
     },
     {
@@ -1294,7 +1294,7 @@
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 43798.0,
+      "price": 42988.0,
       "price_currency": "CAD"
     },
     {
@@ -1305,7 +1305,7 @@
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 43798.0,
+      "price": 42988.0,
       "price_currency": "CAD"
     },
     {
@@ -1327,7 +1327,7 @@
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 43798.0,
+      "price": 42988.0,
       "price_currency": "CAD"
     },
     {
@@ -1834,17 +1834,6 @@
       "model": "Grand Cherokee",
       "condition": "new",
       "price": 85895.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Grand Cherokee Limited",
-      "vin": "1C4RJHAR0TC317859",
-      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/e8a99db45dd7.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "new",
-      "price": 64680.0,
       "price_currency": "CAD"
     },
     {
@@ -2723,6 +2712,17 @@
       "model": "Grand Cherokee L",
       "condition": "new",
       "price": 79425.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Jeep Grand Cherokee Limited",
+      "vin": "1C4RJHAR6V8184093",
+      "url": "https://willyml1979-dotcom.github.io/marine-chrysler-dodge-jeep-ltd-mirror/new/efdcee5c87cb.html",
+      "year": 2027,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "condition": "new",
+      "price": 78525.0,
       "price_currency": "CAD"
     },
     {
